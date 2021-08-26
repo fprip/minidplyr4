@@ -24,3 +24,7 @@ this function is like select 2, but just a bit different
 \item element 2
 }
 }
+\examples{
+res <. select2(iris, 2)
+plot(res)
+}

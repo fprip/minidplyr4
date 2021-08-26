@@ -4,3 +4,4 @@ test_that("select2() works", {
   expect_equal(dim(res), c(150, 1))
   
 })
+# 
