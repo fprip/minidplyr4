@@ -6,6 +6,7 @@
 #' @export
 #'
 #' @examples
+
 test <- function(x) {
   x+1 
 } 
